@@ -1,26 +1,4 @@
 body{
    background-color:#000000; 
    color:#F6F6F6
-}
-h1{
-    color:aqua;
-}
-
-body{
-background-color: black;
-
-}
-header{
-border-bottom: 1px solid black
-}
-
-footer{
-border-top: 1px solid black
-
-}
-.imagem-produto{
-    display: flex;
-    align-items: center;
-    margin: o auto;
-    padding: 20px;
-}
+} 
