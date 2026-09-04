@@ -1,7 +1,27 @@
-body{
-   background-color:#000000; 
-   color:#F6F6F6
-} 
-.imagem-produto{
-   width: 20%;
+h1 {
+    color: rgb(0, 17, 255);
+}
+
+body {
+    background-color: aliceblue;
+}
+
+header {
+    border-bottom: 1px solid black;
+}
+
+footer {
+    border-top: 1px solid black;
+}
+
+.imagem-produto {
+    display: flex;
+    align-items: center;
+}
+
+/* Adicione esta regra logo abaixo */
+.conteudo-produto img {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
 }
